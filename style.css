@@ -1,5 +1,6 @@
 html {
   font-family: sans-serif;
+  font-size: large;
 }
 
 table {
@@ -37,7 +38,7 @@ caption {
 #footerDiv{
   text-align: center;
   font-size: smaller;
-  margin-top: 200px;
+  margin-top: 170px;
   padding-top: 50px;
   padding-bottom: 20px;
   width: 100%;
